@@ -1,9 +1,0 @@
-{
-    "edgeworker-version": "3.0.26",
-    "bundle-version" : 1,
-    "api-version" : "1.5",
-    "description" : "Perfor Test",
-    "misc" : {
-        "author" : "Akamai-Voot"
-     }
-}
