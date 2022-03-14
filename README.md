@@ -6,8 +6,10 @@ onClientRequest		onClientResponse
 onOriginRequest		onOriginResponse
 			responseProvider 
 EdgeKV is kind of another database where we can put /save our data by KEY and VALUE.
+
 # The example
 1.DeviceLimit check
+
 2.Server Version Disculsure
 
  
